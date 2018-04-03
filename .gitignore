@@ -4,3 +4,9 @@
 
 *.sln
 *.suo
+/Bin
+/packages
+/Web.Debug.config
+/Web.config
+/packages.config
+/.vs/config
