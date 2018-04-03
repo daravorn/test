@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/Bin
+/packages
+/Web.Debug.config
+/Web.config
+/packages.config
+/jill.sln
